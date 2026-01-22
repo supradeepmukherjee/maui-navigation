@@ -45,6 +45,7 @@ public partial class MonkeysViewModel : BaseViewModel
     [RelayCommand]
     async Task ViewMonkeyAsync(Monkey monkey)
     {
+        Debug.WriteLine("Called");
         if (monkey is not null)
         {
             await Shell.Current.GoToAsync(

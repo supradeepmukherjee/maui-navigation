@@ -21,8 +21,11 @@ public static class MauiProgram
 #endif
 
 		builder.Services.AddSingleton<MonkeyService>();
+
 		builder.Services.AddSingleton<MonkeysViewModel>();
-		
+		builder.Services.AddTransient<MonkeyDetailsViewModel>();
+
+		builder.Services.AddTransient<DetailsPage>();
 
 		return builder.Build();
 	}

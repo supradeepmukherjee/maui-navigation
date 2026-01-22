@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="MonkeyFinder.DetailsPage">
+             x:Class="MonkeyFinder.DetailsPage"
+             xmlns:vm="clr-namespace:MonkeyFinder.ViewModel"
+             x:DataType="vm:MonkeyDetailsViewModel"
+             Title="{Binding Monkey.Name}">
+
+    <ScrollView>
+        <VerticalStackLayout>
+            <Grid ColumnDefinitions="*,Auto,*" RowDefinitions="160,Auto">
+                <BoxView 
+                    BackgroundColor="{StaticResource Primary}"
+                    Grid.ColumnSpan="3"
+                    HeightRequest="160"
+                    HorizontalOptions="FillAndExpand">
+                    
+                </BoxView>
+            </Grid>
+        </VerticalStackLayout>
+    </ScrollView>
+    
 </ContentPage>
