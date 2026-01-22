@@ -11,6 +11,10 @@
       "RelativeMoniker": "D:0:0:{C60F2B1C-790E-4432-A719-52182A333ADE}|MonkeyFinder\\MonkeyFinder.csproj|solutionrelative:monkeyfinder\\view\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C60F2B1C-790E-4432-A719-52182A333ADE}|MonkeyFinder\\MonkeyFinder.csproj|d:\\monkeyfinder\\part 3 - navigation\\monkeyfinder\\view\\detailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60F2B1C-790E-4432-A719-52182A333ADE}|MonkeyFinder\\MonkeyFinder.csproj|solutionrelative:monkeyfinder\\view\\detailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C60F2B1C-790E-4432-A719-52182A333ADE}|MonkeyFinder\\MonkeyFinder.csproj|d:\\monkeyfinder\\part 3 - navigation\\monkeyfinder\\viewmodel\\monkeysviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C60F2B1C-790E-4432-A719-52182A333ADE}|MonkeyFinder\\MonkeyFinder.csproj|solutionrelative:monkeyfinder\\viewmodel\\monkeysviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,10 +35,6 @@
       "RelativeMoniker": "D:0:0:{C60F2B1C-790E-4432-A719-52182A333ADE}|MonkeyFinder\\MonkeyFinder.csproj|solutionrelative:monkeyfinder\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C60F2B1C-790E-4432-A719-52182A333ADE}|MonkeyFinder\\MonkeyFinder.csproj|d:\\monkeyfinder\\part 3 - navigation\\monkeyfinder\\view\\detailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C60F2B1C-790E-4432-A719-52182A333ADE}|MonkeyFinder\\MonkeyFinder.csproj|solutionrelative:monkeyfinder\\view\\detailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C60F2B1C-790E-4432-A719-52182A333ADE}|MonkeyFinder\\MonkeyFinder.csproj|d:\\monkeyfinder\\part 3 - navigation\\monkeyfinder\\viewmodel\\monkeydetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C60F2B1C-790E-4432-A719-52182A333ADE}|MonkeyFinder\\MonkeyFinder.csproj|solutionrelative:monkeyfinder\\viewmodel\\monkeydetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -50,7 +50,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "D:\\MonkeyFinder\\Part 3 - Navigation\\MonkeyFinder\\View\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "MonkeyFinder\\View\\MainPage.xaml.cs",
@@ -63,7 +63,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "AppShell.xaml",
               "DocumentMoniker": "D:\\MonkeyFinder\\Part 3 - Navigation\\MonkeyFinder\\AppShell.xaml",
               "RelativeDocumentMoniker": "MonkeyFinder\\AppShell.xaml",
@@ -76,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "MauiProgram.cs",
               "DocumentMoniker": "D:\\MonkeyFinder\\Part 3 - Navigation\\MonkeyFinder\\MauiProgram.cs",
               "RelativeDocumentMoniker": "MonkeyFinder\\MauiProgram.cs",
@@ -89,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "AppShell.xaml.cs",
               "DocumentMoniker": "D:\\MonkeyFinder\\Part 3 - Navigation\\MonkeyFinder\\AppShell.xaml.cs",
               "RelativeDocumentMoniker": "MonkeyFinder\\AppShell.xaml.cs",
@@ -115,13 +115,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "DetailsPage.xaml.cs",
               "DocumentMoniker": "D:\\MonkeyFinder\\Part 3 - Navigation\\MonkeyFinder\\View\\DetailsPage.xaml.cs",
               "RelativeDocumentMoniker": "MonkeyFinder\\View\\DetailsPage.xaml.cs",
               "ToolTip": "D:\\MonkeyFinder\\Part 3 - Navigation\\MonkeyFinder\\View\\DetailsPage.xaml.cs",
               "RelativeToolTip": "MonkeyFinder\\View\\DetailsPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-22T08:34:54.469Z",
               "EditorCaption": ""
@@ -134,7 +134,7 @@
               "RelativeDocumentMoniker": "MonkeyFinder\\View\\DetailsPage.xaml",
               "ToolTip": "D:\\MonkeyFinder\\Part 3 - Navigation\\MonkeyFinder\\View\\DetailsPage.xaml",
               "RelativeToolTip": "MonkeyFinder\\View\\DetailsPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwCMAAABrAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-01-22T08:34:51.268Z",
               "EditorCaption": ""
@@ -147,14 +147,14 @@
               "RelativeDocumentMoniker": "MonkeyFinder\\View\\MainPage.xaml",
               "ToolTip": "D:\\MonkeyFinder\\Part 3 - Navigation\\MonkeyFinder\\View\\MainPage.xaml",
               "RelativeToolTip": "MonkeyFinder\\View\\MainPage.xaml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAACCAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAACFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-01-21T13:40:24.03Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MonkeysViewModel.cs",
               "DocumentMoniker": "D:\\MonkeyFinder\\Part 3 - Navigation\\MonkeyFinder\\ViewModel\\MonkeysViewModel.cs",
               "RelativeDocumentMoniker": "MonkeyFinder\\ViewModel\\MonkeysViewModel.cs",

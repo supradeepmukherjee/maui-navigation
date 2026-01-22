@@ -22,7 +22,7 @@
                         <Border HeightRequest="125" Style="{StaticResource CardView}">
                             <Border.GestureRecognizers>
                                 <TapGestureRecognizer
-                                    Command="{Binding Source={RelativeSource AncestorType={x:Type viewmodel:BaseViewModel}}, Path=ViewMonkeyCommand}" 
+                                    Command="{Binding Source={RelativeSource AncestorType={x:Type ContentPage}}, Path=BindingContext.ViewMonkeyCommand}" 
                                     CommandParameter="{Binding .}" />
                             </Border.GestureRecognizers>
                             <Grid Padding="0" ColumnDefinitions="125,*">
